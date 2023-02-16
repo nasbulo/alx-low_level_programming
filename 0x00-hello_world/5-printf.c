@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main - A next scedule is transfer to years
- * Return: 0 (Success)
+ * main - A next schudule is transfered
+ * Return: 0 (success)
  */
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n")
 return (0);
-}
