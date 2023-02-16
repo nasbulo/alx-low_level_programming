@@ -1,11 +1,10 @@
 #include <stdio.h>
-
 /**
- *  * main - Prints out strings
- *   * printf is a function that prints out strings to
- *    * stdout
- *     * Return: All good
- *      */
+ * main - Prints out strings
+ * printf is a function that prints out strings to
+ * stdout
+ * Return: All good
+ */
 
 int main(void)
 {
