@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - A next scedule is transfer to years
- * Return: 0 (Success)
+ *main - A next scedule is transfer to years
+ *Return: 0 (Success)
  */
 int main(void)
 {
