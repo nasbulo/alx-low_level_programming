@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Use 'putchar' to print lowercase and then uppercase alphabet.
+ * Description: Use `putchar` to print lowercase and then uppercase alphabet.
  * Return: 0
  */
 int main(void)
@@ -24,5 +24,5 @@ int main(void)
 
 	putchar('\n');
 
-	putchar('\n');
+	return (0);
 }
