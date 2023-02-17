@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - The C programing is to much diffcult
- * description: get a random number and check its last digit, compare it with S
+ * description: Get a random number and check its last digit, compare it with 5
  * Return: 0
  */
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 	int n;
 	int last;
 	srand(time(0));
-	n = rand() -RAND_MAX / 2;
+	n = rand() - RAND_MAX / 2;
 	last = n % 10;
 	if (last > 5)
 		printf("Last digit of %i is %i and is greater than 5\n", n,last);
