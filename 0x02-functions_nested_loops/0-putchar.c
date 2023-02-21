@@ -5,17 +5,17 @@
  */
 int main(void)
 {
-	char *s - "_putchar"; /*arrays of characters or string*/
-	int i = 0;
-
-	while (s[i] != '\0')
-	{
-		_putchar(s[i]);
-		i++;
-	}
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
 
-	return (0)
+	return (0);
 }
 
 
