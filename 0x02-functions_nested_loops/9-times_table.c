@@ -19,7 +19,7 @@ void times_table(void)
 			{
 				_putchar(48);
 				continue;
-				}
+			}
 			product = i * j;
 			_putchar(',');
 			_putchar(' ');
